@@ -1,1 +1,5 @@
 # dotfiles
+
+## Installation
+
+    $ ./setup.sh
