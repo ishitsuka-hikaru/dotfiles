@@ -1,1 +1,1 @@
-/home/cvrt/repos/dotfiles/.emacs.d
+/home/ishitsuka/repos/dotfiles/.emacs.d
