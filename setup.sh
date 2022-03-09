@@ -1,8 +1,8 @@
 #!/bin/bash
 
-ln -fs $PWD/.emacs.d $HOME/.emacs.d
-ln -fs $PWD/.bash_aliases $HOME/.bash_aliases
-ln -fs $PWD/.tmux.conf $HOME/.tmux.conf
-ln -fs $PWD/.docker $HOME/.docker
+cp -r .emacs.d $HOME/.emacs.d
+cp -r .docker $HOME/.docker
+cp .bash_aliases $HOME/.bash_aliases
+cp .tmux.conf $HOME/.tmux.conf
 
 exec bash
