@@ -1,1 +1,0 @@
-/home/ishitsuka/repos/dotfiles/.emacs.d
