@@ -2,6 +2,7 @@
 (column-number-mode t)
 (setq inhibit-startup-message t)
 (setq initial-scratch-message "")
+(setq-default indent-tabs-mode nil)
 
 ;; window move
 ;; ref https://www.emacswiki.org/emacs/WindMove
